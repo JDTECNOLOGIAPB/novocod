@@ -219,7 +219,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            <center>MULTI-ATENDIMENTO | JDTECNOLOGIA PB</center>
+            <center> JDTECNOLOGIA PB | (83) 99672-9278</center>
           </Typography>
           {user.id && <NotificationsPopOver />}
 
